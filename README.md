@@ -1,11 +1,46 @@
-- 👋 Hi, I’m @avinashivora
-- 👀 I’m interested in learning new things and data science and data analytics- basically the data related universe. 
-- 🌱 I’m currently learning Python tools, libraries and frameworks for Data Science (numpy, pandas). 
-- 📫 How to reach me avinashimvora@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Didn't want to do anything with computer science but ended up loving coding. It has a certain thrill and challenge :)
+# 👋 Hi, I'm Avinashi Vora
 
-<!---
-avinashivora/avinashivora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science (Honors) graduate with a Minor in Finance  
+🔍 Passionate about building **data-driven**, **scalable**, and **efficient** software systems  
+🛠 Currently upskilling in **Data Science**, **SQL Automation**, and **Business Intelligence**
+
+---
+
+## 🚀 About Me
+
+I'm a curious developer who enjoys working at the intersection of **data, automation, and backend logic**.  
+My focus is on creating systems that improve **operational efficiency** and offer a great **user experience**.
+
+I've worked on full-stack and desktop applications, handling everything from **data pipelines** and **report generation** to **secure user authentication**.
+
+---
+
+## 🧩 Projects
+
+- 🧾 **AttendEase**: Full-stack attendance system (web + mobile) used by 3000+ users  
+- 📦 **Stock-er**: Inventory Management System with barcode scanning, billing & role-based access  
+- 🛠 Contributed to campus-wide tools via college Developer Cell (data operations, reporting, backend logic)
+
+Explore more in my [Repositories](https://github.com/avinashivora)!
+
+---
+
+## 💻 Tech Stack
+
+**Languages**: Python, SQL, JavaScript, R, C#, Java, C/C++ (basic)  
+**Frameworks/Tools**: MERN, .NET, Docker, Firebase, Git  
+**Databases**: MongoDB, MySQL, PL/SQL  
+**Other**: Excel automation, API integration, pandas, NumPy, Matplotlib  
+**Cloud**: MongoDB Atlas, Azure  
+**Learning**: Power BI, Tableau, ML/AI fundamentals
+
+---
+
+## 📬 Let's Connect
+
+- ✉️ [avinashimvora@gmail.com](mailto:avinashimvora@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/avinashivora)  
+- 💻 [GitHub](https://github.com/avinashivora)
+
+I'm always open to collaborate on exciting tech, data, or backend projects — or just to chat about solving problems with code.  
+Thanks for stopping by! 🚀
